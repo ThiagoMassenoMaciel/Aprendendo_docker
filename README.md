@@ -1,11 +1,33 @@
-# link docs[aqui](https://docs.docker.com/get-started/introduction/develop-with-containers/)
+#### Challenges
+###### refatorar este codigo para não deixar armazenar uma nova tarefa com o mesmo nome de uma antiga
+###### - uma funcao que checa se o novo nome ja foi usado antes
+###### - exibir um aviso para o usuario do pq ele n consiguio adicionar aquela tarefa *tal qual tinha o nome repetido*
+
+# link docs [ aqui](https://docs.docker.com/get-started/introduction/develop-with-containers/)
 
 # Getting Started Todo App
 
 This project provides a sample todo list application. It demonstrates all of
 the current Docker best practices, ranging from the Compose file, to the
 Dockerfile, to CI (using GitHub Actions), and running tests. It's intended to 
-be a well-documented to ensure anyone can come in and easily learn.
+be a well-documented to ensure
+    
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+     anyone can come in and easily learn.
 
 ## Application architecture
 
@@ -21,13 +43,47 @@ served as static assets. So no... there is no server-side rendering going on
 with this sample app.
 
 During development, since the backend and frontend need different dev tools, 
-they are split into two separate services. This allows [Vite](https://vitejs.dev/) 
+they are split
+	
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+	 into two separate services. This allows [Vite](https://vitejs.dev/) 
 to manage the React app while [nodemon](https://nodemon.io/) works with the 
 backend. With containers, it's easy to separate the development needs!
 
 ## Development
 
-To spin up the project, simply install Docker Desktop and then run the following 
+To spin
+	
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+	 up the project, simply install Docker Desktop and then run the following 
 commands:
 
 ```
