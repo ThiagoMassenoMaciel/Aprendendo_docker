@@ -1,3 +1,6 @@
+# erro encontrado
+![image](https://github.com/user-attachments/assets/68fe8c58-d1d1-45a2-ae55-5bc8033fbf00)
+
 #### Challenges
 ###### refatorar este codigo para não deixar armazenar uma nova tarefa com o mesmo nome de uma antiga
 ###### - uma funcao que checa se o novo nome ja foi usado antes
