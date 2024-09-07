@@ -1,3 +1,5 @@
+# Front-end +  Back-end + Gerenciador de rotas + DB
+
 # erro encontrado
 ![image](https://github.com/user-attachments/assets/68fe8c58-d1d1-45a2-ae55-5bc8033fbf00)
 
